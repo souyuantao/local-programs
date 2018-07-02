@@ -7,3 +7,4 @@ I will go to eat rice and noodles.
 This is changed by master.
 This is changed by feature1.
 分支管理策略。
+我已经修复bug了，哈哈哈哈
